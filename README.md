@@ -1,6 +1,6 @@
 # Big-Data-and-Analytics-Final-Project
 1. Abstract: 
-	we have used various datasets from the city of Toronto open data repository to creates one larger data 	set consisting of count data of the number of resources available to the public per neighbourhood ID.
+	we have used various datasets from the city of Toronto open data repository to creates one larger data 	set consisting of count data of the number 	of resources available to the public per neighbourhood ID.
 2. Data Compilation.ipynb:
 	Here we take in the various datasets clean them, remove missing values, and combine them into a 	single dataset, pandas.csv
 3. Data Visualisation:
@@ -15,3 +15,5 @@
 		one does this for when values of crime rate are taken three years after values of features.
 	For each data set we create small decision trees to help us see what our most “important” variables 	are. 
 	We also implement permutation feature importance to further evaluate the importance of our features. 	We try to add and remove features from our models     to see if it will further improve model performance 	(forward/backward selection)
+5. EDA, Data Visualisation, Features Selection, Decision Trees:
+	A pdf compilation of the data visualisation and crime data further feature selection files
